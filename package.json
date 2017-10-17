@@ -1,0 +1,25 @@
+{
+  "name": "react-app-rewire-optimize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likun7981/react-app-rewired-optimize.git"
+  },
+  "keywords": [
+    "babel-presets-react-optimize",
+    "react-optimize",
+    "create-react-app",
+    "react-app-rewired"
+  ],
+  "author": "likun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/likun7981/react-app-rewired-optimize/issues"
+  },
+  "homepage": "https://github.com/likun7981/react-app-rewired-optimize#readme",
+  "dependencies": {
+    "react-app-rewired": "^1.3.1"
+  }
+}
