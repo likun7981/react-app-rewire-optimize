@@ -30,14 +30,5 @@ module.exports = (config, env)=>{
 }
 ```  
 
-Then add a env `HOST_NAME` when you build project in `package.json`
-```diff
-  "scripts": {
--   "build": "react-scripts build",
-+   "build": "react-app-rewired HOST_NAME=pro build",
-+   "build:uat": "react-app-rewired HOST_NAME=uat build",
-}
-```
-
 ## License
 MIT
